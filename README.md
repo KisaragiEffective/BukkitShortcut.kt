@@ -1,1 +1,2 @@
 # BukkitShortcut.kt
+** NOTE: THIS IS USELESS UNLESS YOU USED KOTLIN**
